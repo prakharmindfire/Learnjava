@@ -1,4 +1,4 @@
-class Fibonacci {
+public class Fibonacci {
     static int fibonacci(int n){
         if(n<=1){
             return n;
